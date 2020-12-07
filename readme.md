@@ -46,3 +46,25 @@ The files included are:
 ## Website URL
 
 [http://d2j58lat2rxk09.cloudfront.net/index.html](http://d2j58lat2rxk09.cloudfront.net/index.html)
+
+## Captures
+
+- The S3 bucket is visible in the AWS Management console.
+  ![capture1-s3-bucket-creation](screenshots/capture1-s3-bucket-creation.png)
+
+- All website files should be added to the S3 bucket.
+  ![capture2-s3-uploadfiles](screenshots/capture2-s3-uploadfiles)
+
+- The S3 bucket is configured to support static website hosting.
+  ![capture5-s3-static-website-host-configuration](screenshots/capture5-s3-static-website-host-configuration.png)
+
+- The permission access to the bucket should be configured to allow public access.
+  ![capture4-s3-publicaccess](screenshots/capture4-s3-publicaccess.png)
+  ![capture3-s3-bucketpolicy](screenshots/capture3-s3-bucketpolicy.png)
+
+- CloudFront has been configured to retrieve and distribute website files.
+  ![capture6-cloudfundation](screenshots/capture6-cloudfundation.png)
+  ![capture7-cloudfront-origins](screenshots/capture7-cloudfront-origins.png)
+
+- Website publicly accessible
+  ![capture8-website](screenshots/capture8-website.png)
