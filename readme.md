@@ -53,7 +53,7 @@ The files included are:
   ![capture1-s3-bucket-creation](screenshots/capture1-s3-bucket-creation.png)
 
 - All website files should be added to the S3 bucket.
-  ![capture2-s3-uploadfiles](screenshots/capture2-s3-uploadfiles)
+  ![capture2-s3-uploadfiles](screenshots/capture2-s3-uploadfiles.png)
 
 - The S3 bucket is configured to support static website hosting.
   ![capture5-s3-static-website-host-configuration](screenshots/capture5-s3-static-website-host-configuration.png)
